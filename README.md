@@ -1,5 +1,8 @@
 # Project 3 Overview — Azure Network Security
 
+## Architecture
+![Architecture](docs/architecture-diagram.png)
+
 ## Problem Statement
 The hybrid environment required enterprise-grade
 network security — moving from a flat network model
