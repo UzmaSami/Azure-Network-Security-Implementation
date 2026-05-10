@@ -61,3 +61,5 @@ network approach — default deny, explicit allow.
 - Lateral movement prevention via micro-segmentation
 - Complete network traffic audit via flow logs
 - Foundation for Private Endpoints (Project 4)
+## Author
+## Uzma Shabbir
