@@ -29,7 +29,7 @@ be deny rather than permit.
 This project implements that posture
 across a multi-tier Azure network
 environment connected to the on-premises
-infrastructure established in Project 0.
+infrastructure established previous work.
 
 ---
 
