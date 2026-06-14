@@ -1,10 +1,9 @@
-# Project 3 Overview — Azure Network Security
+#  Azure Network Security
 
 ## Architecture
 ![Architecture](docs/architecture-diagram.png)
 
-## Overview
-
+# Overview
 This project documents the design and
 implementation of enterprise-grade network
 security in Azure using a Hub-and-Spoke
