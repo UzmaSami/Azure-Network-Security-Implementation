@@ -511,7 +511,7 @@ the current DNS configuration to
 provide conditional forwarding for
 private endpoint DNS resolution across
 the hybrid environment — a requirement
-that becomes significant in Project 4
+that becomes significant in next project
 when private endpoints are deployed.
 
 ---
